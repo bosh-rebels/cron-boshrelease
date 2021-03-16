@@ -1,4 +1,5 @@
 ---
+name: cron
 blobstore:
   provider: s3
   options:
